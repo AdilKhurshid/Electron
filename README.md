@@ -6,3 +6,4 @@ DAT540
 [] percentage of consumption on weekdays
 [] days of the year
 [] Type of the day (public holiday or not)
+[] percentage of consumption based on season
